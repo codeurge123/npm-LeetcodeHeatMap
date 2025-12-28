@@ -8,7 +8,8 @@ This package fetches LeetCode submission data and visualizes daily activity in a
 
 ### Demo
 
-![alt text](image.png)
+![LeetCode Heatmap Demo](https://raw.githubusercontent.com/codeurge123/npm-LeetcodeHeatMap/main/image.png)
+
 
 
 ## Features
@@ -44,7 +45,6 @@ function App() {
 
 export default App;
 
-
 ```
 
 ## Example for Leetcode Data
@@ -71,7 +71,6 @@ export default function App() {
     </div>
   );
 }
-
 
 ```
 
