@@ -6,6 +6,11 @@ This package fetches LeetCode submission data and visualizes daily activity in a
 
 ---
 
+### Demo
+
+![alt text](image.png)
+
+
 ## Features
 
 - GitHub-style contribution heatmap  

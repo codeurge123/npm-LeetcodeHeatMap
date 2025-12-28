@@ -1,6 +1,6 @@
 {
   "name": "leetcode-heatmap-track",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -9,7 +9,7 @@
   "scripts": {  
     "build": "rollup -c"
   },
-  "keywords": ["leetcode-heatmap", "open-source", "leetcode-stats"],
+  "keywords": ["leetcode-heatmap", "open-source", "leetcode-stats", "react" , ""],
   "author": "codeurge",
   "license": "ISC",
   "description": "A lightweight React library that visualizes LeetCode user activity using a GitHub-style contribution heatmap. It fetches real submission data, supports hover tooltips, and includes a utility to access raw LeetCode statistics—perfect for portfolios and dashboards.",
